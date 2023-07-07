@@ -14,5 +14,5 @@ some2() {
 void main() {
   some1(10);
   some1(true);
-  some2('hello');
+  some1('hello');
 }

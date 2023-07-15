@@ -42,6 +42,20 @@ dependencies:
   http: ^0.13.4
   dio: ^4.0.6
   provider: ^6.0.3
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  get: ^4.6.5
+  geolocator: ^8.2.1
+  image_picker: ^0.8.5+3
+  shared_preferences: ^2.0.15
+  sqflite: ^2.0.2+1
+  firebase_core: ^2.7.0
+  firebase_auth: ^4.2.9
+  fluttertoast: ^8.0.9
+  cloud_firestore: ^4.4.3
+  firebase_storage: ^11.0.14
+  firebase_messaging: ^14.2.5
+  flutter_local_notifications: ^13.0.0
 
 dev_dependencies:
   flutter_test:
